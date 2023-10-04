@@ -1,0 +1,1 @@
+# yandex_django_dz1
